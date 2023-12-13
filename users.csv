@@ -1,4 +1,5 @@
-name,age,email
-Ahmet,25,ahmet@example.com
-Mehmet,30,mehmet@example.com
-Ayşe,28,ayse@example.com
+name,age,city
+Alice,28,Paris
+Bob,35,San Francisco
+Charlie,22,Tokyo
+David,30,Berlin
